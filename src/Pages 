@@ -1,1 +1,8 @@
-pages
+src/pages/
+├── Dashboard.jsx
+├── Login.jsx
+├── Labour.jsx
+├── DailyReport.jsx
+├── Spray.jsx
+├── GreenLeaf.jsx
+└── Settings.jsx
